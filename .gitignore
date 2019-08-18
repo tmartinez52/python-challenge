@@ -1,2 +1,7 @@
 .ipynb
 .DS_Store
+PyPoll/PyPoll.ipynb
+PyPoll/.ipynb_checkpoints/PyPoll-checkpoint.ipynb
+.DS_Store
+.gitignore
+
